@@ -24,6 +24,8 @@ Analyzes demographic data to compute summary statistics and identify patterns ac
 ### ✅ 3. Medical Data Visualizer  
 [View notebook](./medical_data_visualizer/medical-data-visualizer.ipynb)  
 Processes clinical examination data to compute and visualize health indicators. Includes BMI-based overweight classification, binary normalization of cholesterol and glucose levels, and visual summaries using categorical plots and correlation heatmaps.
+![Catplot](./medical_data_visualizer/catplot.png)
+![Heatmap](./medical_data_visualizer/heatmap.png)
 
 ### ✅ 4. Page View Time Series Visualizer  
 [View notebook](./page_view_time_series_visualizer/page-view-time-series-visualizer.ipynb)  
