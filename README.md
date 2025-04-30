@@ -19,7 +19,7 @@ Analyzes demographic data to compute summary statistics and identify patterns ac
 Processes clinical examination data to compute and visualize health indicators. Includes BMI-based overweight classification, binary normalization of cholesterol and glucose levels, and visual summaries using categorical plots and correlation heatmaps.
 
 ### ✅ 4. Page View Time Series Visualizer  
-[View notebook](./page_view_time_series_visualizer/page-view-time-series-visualizer.ipynb)  
+[View notebook](./page_view_time_series_visualizer/page view-time series-visualizer.ipynb)  
 Analyzes freeCodeCamp forum page view data between May 2016 and December 2019. Cleans the dataset by removing statistical outliers, then visualizes long-term and seasonal trends using a line chart, a grouped bar chart, and dual box plots showing yearly and monthly distributions.
 
 ---
