@@ -14,6 +14,10 @@ Computes statistical measures (mean, variance, standard deviation, min, max, and
 [View notebook](./demographic_data_analyzer/demographic-data-analyzer.ipynb)  
 Analyzes demographic data to compute summary statistics and identify patterns across different groups, such as average age, education levels, and income brackets.
 
+### ✅ 3. Medical Data Visualizer  
+[View notebook](./medical_data_visualizer/medical-data-visualizer.ipynb)  
+Processes clinical examination data to compute and visualize health indicators. Includes BMI-based overweight classification, binary normalization of cholesterol and glucose levels, and visual summaries using categorical plots and correlation heatmaps.
+
 ---
 
 ## 🛠️ Tools Used
