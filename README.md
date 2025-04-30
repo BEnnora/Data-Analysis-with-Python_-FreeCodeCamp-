@@ -3,7 +3,7 @@
 This repository contains five projects completed for the **Data Analysis with Python** certification offered by [freeCodeCamp](https://www.freecodecamp.org/). Each project demonstrates core data analysis concepts using Python and scientific libraries like NumPy and Pandas.
 
 ## Table of Contents
-- [Mean-Variance-Standard Deviation Calculator](##1-mean-variance-standard-deviation-calculator)
+- [Mean-Variance-Standard Deviation Calculator](#1-mean-variance-standard-deviation-calculator)
 - [Demographic Data Analyzer](#2-demographic-data-analyzer)
 - [Medical Data Visualizer](#3-medical-data-visualizer)
 - [Page View Time Series Visualizer](#4-page-view-time-series-visualizer)
