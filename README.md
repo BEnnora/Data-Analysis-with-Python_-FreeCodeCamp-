@@ -5,7 +5,7 @@ This repository contains five projects completed for the **Data Analysis with Py
 ## 📚 Table of Contents
 - [✅ 1. Mean-Variance-Standard Deviation Calculator](#️-✅-1-mean-variance-standard-deviation-calculator)
 - [✅ 2. Demographic Data Analyzer](#️-✅-2-demographic-data-analyzer)
-- [✅ 3. Medical Data Visualizer](#️-✅-3-medical-data-visualizer)
+- [✅ 3. Medical Data Visualizer](#medical-data-visualizer)
 - [✅ 4. Page View Time Series Visualizer](#️-✅-4-page-view-time-series-visualizer)
 - [✅ 5. Sea Level Predictor](#️-✅-5-sea-level-predictor)
 
@@ -21,6 +21,7 @@ Computes statistical measures (mean, variance, standard deviation, min, max, and
 [View notebook](./demographic_data_analyzer/demographic-data-analyzer.ipynb)  
 Analyzes demographic data to compute summary statistics and identify patterns across different groups, such as average age, education levels, and income brackets.
 
+<a name="medical-data-visualizer"></a>
 ### ✅ 3. Medical Data Visualizer  
 [View notebook](./medical_data_visualizer/medical-data-visualizer.ipynb)  
 Processes clinical examination data to compute and visualize health indicators. Includes BMI-based overweight classification, binary normalization of cholesterol and glucose levels, and visual summaries using categorical plots and correlation heatmaps.
