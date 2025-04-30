@@ -11,7 +11,7 @@ This repository contains five projects completed for the **Data Analysis with Py
 Computes statistical measures (mean, variance, standard deviation, min, max, and sum) for rows, columns, and the entire 3×3 matrix using NumPy.
 
 ### ✅ 2. Demographic Data Analyzer
-[View notebook](./demographic_data_analyzer/demographic_data_analyzer.ipynb)  
+[View notebook](./demographic_data_analyzer/demographic-data-analyzer.ipynb)  
 Analyzes demographic data to compute summary statistics and identify patterns across different groups, such as average age, education levels, and income brackets.
 
 ---
