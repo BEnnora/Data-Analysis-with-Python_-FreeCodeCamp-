@@ -22,7 +22,7 @@ Computes statistical measures (mean, variance, standard deviation, min, max, and
 ### ✅ 2. Demographic Data Analyzer
 [View notebook](./demographic_data_analyzer/demographic-data-analyzer.ipynb)  
 Analyzes demographic data to compute summary statistics and identify patterns across different groups, such as average age, education levels, and income brackets.
-📊 **Data source:** [Adult Income Dataset (UCI)]([https://archive.ics.uci.edu/ml/datasets/adult](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer))
+📊 **Data source:** [Adult Income Dataset (UCI)](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
 
 <a name="medical-data-visualizer"></a>
 ### ✅ 3. Medical Data Visualizer  
