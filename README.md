@@ -22,11 +22,13 @@ Computes statistical measures (mean, variance, standard deviation, min, max, and
 ### ✅ 2. Demographic Data Analyzer
 [View notebook](./demographic_data_analyzer/demographic-data-analyzer.ipynb)  
 Analyzes demographic data to compute summary statistics and identify patterns across different groups, such as average age, education levels, and income brackets.
+📊 **Data source:** [Adult Income Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/adult)
 
 <a name="medical-data-visualizer"></a>
 ### ✅ 3. Medical Data Visualizer  
 [View notebook](./medical_data_visualizer/medical-data-visualizer.ipynb)  
 Processes clinical examination data to compute and visualize health indicators. Includes BMI-based overweight classification, binary normalization of cholesterol and glucose levels, and visual summaries using categorical plots and correlation heatmaps.
+📊 **Data source:** [`medical_examination.csv`](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer)
 ![Catplot](./medical_data_visualizer/catplot.png)
 ![Heatmap](./medical_data_visualizer/heatmap.png)
 
@@ -34,6 +36,7 @@ Processes clinical examination data to compute and visualize health indicators. 
 ### ✅ 4. Page View Time Series Visualizer  
 [View notebook](./page_view_time_series_visualizer/page-view-time-series-visualizer.ipynb)  
 Analyzes freeCodeCamp forum page view data between May 2016 and December 2019. Cleans the dataset by removing statistical outliers, then visualizes long-term and seasonal trends using a line chart, a grouped bar chart, and dual box plots showing yearly and monthly distributions.
+📊 **Data source:** [`fcc-forum-pageviews.csv`](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer)
 ![Line Plot](./page_view_time_series_visualizer/line_plot.png)  
 ![Bar Plot](./page_view_time_series_visualizer/bar_plot.png)  
 ![Box Plot](./page_view_time_series_visualizer/box_plot.png)
@@ -42,6 +45,7 @@ Analyzes freeCodeCamp forum page view data between May 2016 and December 2019. C
 ### ✅ 5. Sea Level Predictor  
 [View notebook](./sea_level_predictor/sea-level-predictor.ipynb)  
 Analyzes global sea level data from 1880 to 2013 and predicts future trends through linear regression. Includes two lines of best fit: one based on all available historical data, and one starting from the year 2000 to capture more recent changes. Visualizes both projections up to the year 2050 using `matplotlib` and `scipy`.
+📊 **Data source:** [epa-sea-level.csv](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor)  
 ![Sea Level Plot](./sea_level_predictor/sea_level_plot.png)
 
 ---
