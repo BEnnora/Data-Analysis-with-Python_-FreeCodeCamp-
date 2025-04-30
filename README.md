@@ -22,6 +22,10 @@ Processes clinical examination data to compute and visualize health indicators. 
 [View notebook](./page_view_time_series_visualizer/page-view-time-series-visualizer.ipynb)  
 Analyzes freeCodeCamp forum page view data between May 2016 and December 2019. Cleans the dataset by removing statistical outliers, then visualizes long-term and seasonal trends using a line chart, a grouped bar chart, and dual box plots showing yearly and monthly distributions.
 
+### ✅ 5. Sea Level Predictor  
+[View notebook](./sea_level_predictor/sea-level-predictor.ipynb)  
+Analyzes global sea level data from 1880 to 2013 and predicts future trends through linear regression. Includes two lines of best fit: one based on all available historical data, and one starting from the year 2000 to capture more recent changes. Visualizes both projections up to the year 2050 using `matplotlib` and `scipy`.
+
 ---
 
 ## 🛠️ Tools Used
